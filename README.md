@@ -1,5 +1,5 @@
 # VocabularyFlashCard 
-_A Simple Flashcard App for Learning English Vocabulary_
+_A Simple Flashcard program for Learning English Vocabulary_
 
 # About
 
